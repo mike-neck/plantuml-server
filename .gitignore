@@ -1,0 +1,24 @@
+### Java template
+*.class
+
+# Package Files #
+*.jar
+
+### Gradle template
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+### JetBrains template
+.idea/**
+
+## File-based project format:
+*.iws
+*.iml
+*.ipr
+
+# IntelliJ
+out/
+
+#document for test
+test-document/
